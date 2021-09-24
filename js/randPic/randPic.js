@@ -12,9 +12,9 @@ images[4].src = "/Miscellaneous/js/randPic/pic/4.png";
 images[5] = new Image();
 images[5].src = "/Miscellaneous/js/randPic/pic/5.png";
 images[6] = new Image();
-images[6].src = "/Miscellaneous/js/randPic/pic/6.tiff";
+images[6].src = "/Miscellaneous/js/randPic/pic/6.png";
 images[7] = new Image();
-images[7].src = "/Miscellaneous/js/randPic/pic/7.tiff";
+images[7].src = "/Miscellaneous/js/randPic/pic/7.png";
 function randomPic() {
 var imageNum = images.length - 1;
 do {
